@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently working on a WebGL Portfolio and learning Unreal Engine 5
 - 🌱 Learning C++ and Rust
-- 😄 Pronouns: He/Him!
+- 😄 Pronouns: He/Them!
 - ⚡ Fun fact: I also compose music and doodle!
