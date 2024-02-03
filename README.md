@@ -5,3 +5,5 @@
 - 🌱 Learning C++ and Rust
 - 😄 Pronouns: He/Them!
 - ⚡ Fun fact: I also compose music and doodle!
+
+Check out my portfolio here: www.austinsmithrise.com
